@@ -2,7 +2,7 @@
 
 **Question asked:** "Analyze NVDA's market regimes, test which technical indicators are most profitable in each regime, and use GARCH to forecast the next 30 days of volatility."
 
-**Time:** ~10 minutes | **Input:** 5 years of raw NVIDIA daily OHLCV data (1,256 rows)
+**Time:** 7m 57s | **Input:** 5 years of raw NVIDIA daily OHLCV data (1,256 rows)
 
 ## What It Produced
 
@@ -17,7 +17,7 @@
 | File | Description |
 |---|---|
 | `nvda_5yr_daily.csv` | Raw NVIDIA daily OHLCV data (Apr 2021 – Apr 2026) |
-| `regime-detection-volatility-forecasting-for-nvda.pdf` | Full analysis report |
+| `nvda-regimes-signals-volatility-plan.pdf` | Full analysis report |
 | `analysis.ipynb` | Generated Python code as Jupyter notebook |
 
 ## Key Insight

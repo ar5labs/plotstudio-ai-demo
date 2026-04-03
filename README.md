@@ -6,7 +6,7 @@ AI-generated analyses by [PlotStudio AI](https://www.plotstudio.ai/?utm_source=g
 
 | Analysis | Domain | Question Asked | Time |
 |---|---|---|---|
-| [NVDA Regime Detection](nvda-regime-detection/) | Finance | "Analyze NVDA's market regimes, test which technical indicators are most profitable in each regime, and use GARCH to forecast the next 30 days of volatility." | ~10 min |
+| [NVDA Regime Detection](nvda-regime-detection/) | Finance | "Analyze NVDA's market regimes, test which technical indicators are most profitable in each regime, and use GARCH to forecast the next 30 days of volatility." | 7m 57s |
 
 More coming soon.
 
