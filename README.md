@@ -13,6 +13,13 @@ PlotStudio is an agentic analytics tool where AI agents investigate your data. U
 |---|---|---|
 | [Regime Detection](nvda-stock/regime-detection/) | Market regime detection, per-regime indicator backtesting, GARCH volatility forecast | 7m 57s |
 
+### [Ames Housing Market](ames-housing/)
+Ames, Iowa residential sales (2,930 rows, 82 columns)
+
+| Analysis | Question | Time |
+|---|---|---|
+| [Renovation ROI](ames-housing/renovation-roi/) | Which neighborhoods offer the best buy-and-renovate investment opportunity? | — |
+
 ---
 
 Each folder contains the raw data, exported PDF report, and generated Jupyter notebook.
