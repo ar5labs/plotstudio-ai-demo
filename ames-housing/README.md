@@ -6,7 +6,7 @@
 
 | Analysis | Question | Time |
 |---|---|---|
-| [Renovation ROI](renovation-roi/) | "Which neighborhoods offer the best buy-and-renovate investment opportunity?" | — |
+| [Renovation ROI](renovation-roi/) | "Which neighborhoods offer the best buy-and-renovate investment opportunity?" | 8m 58s |
 
 ## Key Findings
 
