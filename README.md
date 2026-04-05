@@ -27,6 +27,13 @@ World Bank development indicators for Bangladesh (66 rows, 135 columns, 1960-202
 |---|---|---|
 | [Education Spending Threshold](bangladesh-econ/education-spending-threshold/) | At what point does increased education spending fail to boost GDP per capita? | 5m 41s |
 
+### [Framingham Heart Study](framingham/)
+Framingham Heart Study cohort (4,240 rows, 16 columns)
+
+| Analysis | Question | Time |
+|---|---|---|
+| [CHD Risk Factors](framingham/chd-risk-factors/) | What are the strongest risk factors for developing coronary heart disease within ten years? | 7m 3s |
+
 ### [Penn World Table](penn-world-table/)
 Cross-country panel of economic indicators (13,690 rows, 52 columns, 183 countries, 1950-2019)
 
