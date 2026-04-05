@@ -18,7 +18,7 @@ Ames, Iowa residential sales (2,930 rows, 82 columns)
 
 | Analysis | Question | Time |
 |---|---|---|
-| [Renovation ROI](ames-housing/renovation-roi/) | Which neighborhoods offer the best buy-and-renovate investment opportunity? | 8m 58s |
+| [Renovation Investment Targeting](ames-housing/renovation-roi/) | Where would buying a property and renovating give the best investment opportunity? | 5m 19s |
 
 ### [Bangladesh Economy](bangladesh-econ/)
 World Bank development indicators for Bangladesh (66 rows, 135 columns, 1960-2025)

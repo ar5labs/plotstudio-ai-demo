@@ -6,14 +6,14 @@
 
 | Analysis | Question | Time |
 |---|---|---|
-| [Renovation ROI](renovation-roi/) | "Which neighborhoods offer the best buy-and-renovate investment opportunity?" | 8m 58s |
+| [Renovation Investment Targeting](renovation-roi/) | "Where would buying a property and renovating give the best investment opportunity?" | 5m 19s |
 
 ## Key Findings
 
-- StoneBr has the largest renovation premium at 30.5% after controlling for size, quality, bathrooms, garage, age, kitchen, and market timing
-- Somerst offers the best combination of uplift (12.6%) and sample support
-- Kitchen quality and overall finish are the most monetizable renovation levers — not just buying the cheapest house
-- Market timing (pre/post 2008) matters less than neighborhood selection and upgrade type
+- NWAmes, NAmes, and Sawyer are the strongest risk-adjusted neighborhoods (composite scores 0.667, 0.658, 0.592)
+- Best opportunities combine double-digit renovation premiums with moderate entry costs — not just expensive neighborhoods with prestige pricing
+- Timber has the highest raw premium (31.5%) but its expensive entry price pushes it to caution tier
+- Crawfor shows high upside (19.7%) but high volatility makes it a caution case
 
 ---
 
